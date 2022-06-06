@@ -46,3 +46,12 @@ sudo apt-get update
 
 sudo apt-get install msodbcsql17
 ```
+
+
+Install Lib PyODBC
+```sh
+sudo apt-get update -y
+
+sudo apt-get install -y python3-pyodbc
+```
+
